@@ -25,8 +25,7 @@
 
 ## Project Approach
 
-This project was developed following an API-first approach using FastAPI for backend development. Authentication, user roles, and resource assignment were prioritized. While the frontend implementation is currently minimal (basic login page), it provides a foundation for full-featured dashboards to be built on top of the API.
-Due to limited hands-on experience with React, only the login functionality was implemented at this stage.
+This project was developed following an API-first approach using FastAPI for backend development. Authentication, user roles, and resource assignment were prioritized. While the frontend implementation is currently minimal (basic login page).Due to limited hands-on experience with React, only the login functionality was implemented at this stage.
 
 ## Core Features
 
